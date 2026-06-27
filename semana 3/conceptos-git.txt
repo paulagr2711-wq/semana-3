@@ -1,0 +1,13 @@
+Pregunta 7 — Explicar conceptos básicos de Git
+
+Repositorio:
+Es básicamente la carpeta principal de tu proyecto, pero con superpoderes porque no solo almacena los archivos actuales, sino todo el historial completo de modificaciones.
+Funciona como el núcleo organizado donde se guarda absolutamente cada avance del código para que nada se pierda.
+
+Commit:
+Viene siendo como un punto de guardado en un videojuego o una foto instantánea de cómo estaba tu código en un momento exacto. 
+Cada vez que lo haces, dejas registrado un avance con una nota corta que explica qué cambiaste, lo que te permite volver atrás si algo sale mal.
+
+Push:
+Es la acción de subir o lanzar todos esos commits que guardaste en tu computadora o en Codespaces directamente hacia la nube en GitHub.
+Sirve para actualizar el repositorio remoto y que tus compañeros de equipo o el profesor puedan ver y revisar tu última versión del trabajo.
