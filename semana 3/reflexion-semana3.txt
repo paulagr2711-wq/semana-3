@@ -1,0 +1,12 @@
+Pregunta 9 — Reflexión de la semana
+Respuesta:
+Mantener un registro de cambios con Git no es simplemente por cumplir con una buena práctica que te exigen en la universidad, sino por pura supervivencia cuando estás desarrollando software. Al final del día,
+cuando uno está programando, es súper común que un código que funcionaba perfectamente se rompa de la nada después de meterle una nueva función o arreglar un detalle. Si no usas Git, el dolor de cabeza de intentar 
+recordar qué fue exactamente lo que moviste o tener que borrar líneas a ciegas es horrible. Git funciona literalmente como una máquina del tiempo; te permite devolverte al punto exacto donde todo marchaba bien, lo 
+que te ahorra horas de frustración y evita que entres en pánico cuando las cosas salen mal.
+
+El verdadero valor de esto se nota todavía más cuando toca trabajar en equipo con otros compañeros. Sin una herramienta de control de versiones, coordinar un proyecto de software sería un caos total, compartiendo 
+archivos por carpetas de drive, WhatsApp o correo, y cruzando los dedos para que nadie termine pisando o borrando el trabajo del otro. Git soluciona esto de raíz porque permite que cada integrante trabaje en su propia
+línea de código de forma independiente sin dañar la versión principal del proyecto. Cuando todo está listo, el sistema ayuda a integrar los cambios de manera inteligente y deja una huella clara de quién hizo qué, cuándo
+lo hizo y por qué.
+
